@@ -1,6 +1,5 @@
 {
     "token": "Ur Token",
     "channelIDs": ["ChannelId1", "ChannelID2"],
-    "message": "Urmessage",
     "time": 10000
 }
